@@ -1,0 +1,18 @@
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.csproj.AssemblyReference.cache
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.AssemblyInfoInputs.cache
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.AssemblyInfo.cs
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.csproj.CoreCompileInputs.cache
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Conversor de Moedas - C#.exe
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Conversor de Moedas - C#.deps.json
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Conversor de Moedas - C#.runtimeconfig.json
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Conversor de Moedas - C#.dll
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Conversor de Moedas - C#.pdb
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.csproj.CopyComplete
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.dll
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\refint\Conversor de Moedas - C#.dll
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.pdb
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\Conversor de Moedas - C#.genruntimeconfig.cache
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\obj\Debug\net8.0\ref\Conversor de Moedas - C#.dll
+C:\Users\Loja\Desktop\Conversor de Moedas - C#\bin\Debug\net8.0\Newtonsoft.Json.dll
